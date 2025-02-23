@@ -1,9 +1,12 @@
 <?php
 /**
  * Plugin Name: WP Test Plugin
- * Description: A simple plugin to test WordPress setup.
- * Version: 1.0
- * Author: Your Name
+ * Plugin URI: https://github.com/seliruslan/abz
+ * Description: Test plugin for WordPress
+ * Version: 1.0.0
+ * Author: Ruslan
+ * Author URI: https://github.com/seliruslan
+ * Text Domain: wp-test-plugin
  */
 
 // Prevent direct access
