@@ -12,7 +12,7 @@ get_header();
 <div class="container">
     <h1>Welcome to My WordPress Site</h1>
     <div>
-        <?php echo do_shortcode('[wp_test]'); ?>
+        <?php echo do_shortcode('[wp-test-plugin]'); ?>
     </div>
 </div>
 
